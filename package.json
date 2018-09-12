@@ -1,0 +1,14 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": "Modern Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --delay 2 --recursive"
+  },
+  "author": "Ali Rouaki",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
